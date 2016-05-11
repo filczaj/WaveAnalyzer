@@ -1,0 +1,12 @@
+﻿0 C
+1 CSharp/DFlat
+2 D
+3 DSharp/EFlat
+4 E
+5 F
+6 FSharp/GFlat
+7 G
+8 GSharp/AFlat
+9 A
+10 ASharp/BFlat
+11 B
